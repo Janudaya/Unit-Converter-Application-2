@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="category_label">Select Category</string>
+    <string name="input_label">Value to Convert</string>
+    <string name="input_hint">Enter number (e.g., 25.5)</string>
+    <string name="from_unit_label">From Unit</string>
+    <string name="to_unit_label">To Unit</string>
+    <string name="convert_button">CONVERT</string>
+    <string name="swap_units">Swap</string>
+    <string name="clear_button">Clear</string>
+    <string name="result_label">Converted Result</string>
+    <string name="result_placeholder">Result will appear here</string>
+    <string name="copy_result">Copy</string>
+    <string name="copied_toast">Copied to clipboard!</string>
+    
+    <!-- Validation error messages -->
+    <string name="error_empty_input">Please enter a numeric value to convert</string>
+    <string name="error_invalid_input">Invalid numeric format entered</string>
+    <string name="error_negative_value">Value cannot be negative for this measurement type</string>
+    <string name="error_below_absolute_zero">Temperature cannot be below absolute zero (-273.15°C / -459.67°F / 0K)</string>
+</resources>
